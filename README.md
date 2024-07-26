@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌱 Front-end iniciante;<br>📚 Cursando Sistemas em Comutação - UFF.</p>
+<p align="left">🌱 Front-end iniciante;<br>📚 Cursando Sistemas em Computação - UFF.</p>
 
 ###
 
